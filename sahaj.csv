@@ -1,0 +1,8 @@
+board_size,100
+snake_start,snake_end
+25,5
+37,15
+87,46
+ladder_start,ladder_end
+9,25
+14,47
